@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/WEB-INF/sitemaps.properties</url>
+            <bookmark id="1">
+                <name/>
+                <line>24</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/ViewProductOrderCartServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/ShoppingPageServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/RemoveItemFromCartServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/search.html</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/orders/OrderDAO.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/checkOut.jsp</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/CheckOutProductServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/META-INF/context.xml</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/shoppingList.jsp</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/BuyProductShoppingServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/createNewAccount.html</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/search.jsp</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/viewProductCart.jsp</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/shopping.html</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/viewCart.jsp</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/login.html</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/UpdateAccountServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/DeleteAccountServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/createNewAccount.jsp</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/error.html</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/PaymentProductServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/WEB-INF/web.xml</file>
+            <file>file:/D:/PRJ301(Folder)/PD/web/invalid.html</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/CreateNewAccountServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/AddItemToCartServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/controller/RemoveProductFromCartServlet.java</file>
+            <file>file:/D:/PRJ301(Folder)/PD/src/java/dungnv/filter/DispatcherFilter.java</file>
+        </group>
+    </open-files>
+</project-private>
